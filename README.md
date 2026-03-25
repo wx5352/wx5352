@@ -14,7 +14,12 @@
 - Build SaaS systems for fintech businesses
 - Integrate AI into trading / data systems
 - Optimize and refactor legacy financial systems
-
+- Develop SaaS systems and enterprise platforms
+- Build e-commerce websites and online business systems
+- Develop WeChat Mini Programs and mobile-friendly apps
+- Build Telegram bots, automation tools, and integrations
+- Create AI-powered tools, chatbots, and data systems
+- Develop custom software solutions for any business needs
 ---
 
 ## 🏦 Industry Experience
