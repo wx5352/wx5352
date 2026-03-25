@@ -1,38 +1,102 @@
 # Hi 👋, I'm Jacob
 
-### 🚀 Java Full Stack Developer | Available for Freelance
+🚀 FinTech Full Stack Engineer (Java + Python)  
+💼 10+ Years Experience in Securities, Banking, Forex & Crypto Systems  
+💰 Available for Freelance Projects
 
 ---
 
-- 🔭 I build **Spring Boot + React SaaS systems**
-- 💡 Specialized in **Backend APIs, Admin Systems, AI Integration**
-- 📦 10+ years experience in Financial IT systems
-- ⚡ Fast delivery & clean code
+## 💼 What I Can Do For You
+
+- Build trading systems (stocks / forex / crypto)
+- Develop high-performance backend APIs
+- Create financial data platforms & dashboards
+- Build SaaS systems for fintech businesses
+- Integrate AI into trading / data systems
+- Optimize and refactor legacy financial systems
 
 ---
 
-### 🛠 Tech Stack
-- Java / Spring Boot / Spring Security
-- MySQL / Redis
-- React / TypeScript
-- Docker / Linux / Nginx
+## 🏦 Industry Experience
+
+- 📈 Securities Trading Systems
+- 🏦 Banking Systems
+- 💱 Forex Platforms
+- 🪙 Crypto Exchange Systems
 
 ---
 
-### 💼 What I Can Help You With
-- ✅ SaaS Admin Systems
-- ✅ API Development
-- ✅ Backend Architecture
-- ✅ AI Integration
-- ✅ System Optimization
+## 🛠 Tech Stack
+
+### Backend
+Java (Spring Boot, Spring Security, MyBatis)  
+Python (FastAPI, Flask)
+
+### Frontend
+React, TypeScript
+
+### Database
+MySQL, Redis
+
+### DevOps
+Docker, Linux, Nginx
+
+### Finance / Trading
+Trading APIs, Risk Control Systems, Real-time Data Processing
+
+### AI / Automation
+OpenAI API, Data Analysis, Automation Scripts
 
 ---
 
-### 📩 Contact Me
-- 📧 Email: your@email.com
-- 💬 Telegram: your_telegram
+## 💼 Featured Solutions
+
+### 🔹 Trading System Backend
+- Order matching logic
+- Risk control system
+- Real-time data processing
+- High concurrency architecture
 
 ---
 
-### ⚡ Fun Fact
-Coffee > Everything ☕
+### 🔹 Crypto / Forex Tools
+- Trading bots
+- Strategy execution systems
+- API integrations (Binance, MT4/MT5)
+
+---
+
+### 🔹 Financial SaaS Platform
+- Admin dashboard
+- User/account systems
+- Transaction tracking
+- Reporting & analytics
+
+---
+
+## 💡 Why Work With Me
+
+- 🎓 Master’s Degree  
+- 🧠 10+ years in financial IT  
+- 💼 Experience in securities, banking, forex & crypto  
+- ⚡ High-performance system design  
+- 🧩 Clean, scalable production-ready code  
+- 🤝 Long-term collaboration support  
+
+---
+
+## 📩 Contact Me
+
+- 📧 Email: fuermoxing65@gmail.com  
+- 💬 Telegram: https://t.me/vnilkbb  
+
+💬 Open for freelance & consulting  
+⏰ Available: 08:00–23:00 UTC, 7 days/week  
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true)
+
+![](https://komarev.com/ghpvc/?username=你的用户名)
