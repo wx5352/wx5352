@@ -94,9 +94,10 @@ OpenAI API, Data Analysis, Automation Scripts
 
 - 📧 Email: fuermoxing65@gmail.com  
 - 💬 Telegram: https://t.me/vnilkbb  
+- 📱 WhatsApp: +60 148 484 578  
 
 💬 Open for freelance & consulting  
-⏰ Available: worldwide, 24/7 
+⏰ Available: 24/7
 
 ---
 
