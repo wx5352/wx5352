@@ -91,7 +91,7 @@ OpenAI API, Data Analysis, Automation Scripts
 - 💬 Telegram: https://t.me/vnilkbb  
 
 💬 Open for freelance & consulting  
-⏰ Available: 08:00–23:00 UTC, 7 days/week  
+⏰ Available: worldwide, 24/7 
 
 ---
 
