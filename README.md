@@ -97,6 +97,6 @@ OpenAI API, Data Analysis, Automation Scripts
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=wx5352&show_icons=true)
 
-![](https://komarev.com/ghpvc/?username=你的用户名)
+![](https://komarev.com/ghpvc/?username=wx5352)
